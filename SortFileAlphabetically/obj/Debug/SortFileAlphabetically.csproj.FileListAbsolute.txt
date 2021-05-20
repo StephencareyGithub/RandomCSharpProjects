@@ -1,0 +1,7 @@
+C:\Hobby Projects\SortFileAlphabetically\obj\Debug\SortFileAlphabetically.csprojAssemblyReference.cache
+C:\Hobby Projects\SortFileAlphabetically\obj\Debug\SortFileAlphabetically.csproj.CoreCompileInputs.cache
+C:\Hobby Projects\SortFileAlphabetically\bin\Debug\SortFileAlphabetically.exe.config
+C:\Hobby Projects\SortFileAlphabetically\bin\Debug\SortFileAlphabetically.exe
+C:\Hobby Projects\SortFileAlphabetically\bin\Debug\SortFileAlphabetically.pdb
+C:\Hobby Projects\SortFileAlphabetically\obj\Debug\SortFileAlphabetically.exe
+C:\Hobby Projects\SortFileAlphabetically\obj\Debug\SortFileAlphabetically.pdb
